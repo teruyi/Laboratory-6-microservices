@@ -20,7 +20,7 @@ Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220
 Santiago Gil Begué | 683482  | [repo](https://github.com/Santi-7/Laboratory-6-microservices)
-Carlos Escuín Blasco | 545003
+Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/Laboratory-6-microservices)
 Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-6-microservices)
 Adrian Moreno Jimeno | 631537
