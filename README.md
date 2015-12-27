@@ -16,7 +16,7 @@ David Nicuesa Aranda | 653224
 Eduardo Ibanez | 528074 | [repo](https://github.com/EduIbanez/Laboratory-6-microservices)
 Sergio Soro Miranda | 671250
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-6-microservices)
-Oscar Clemente Pedrico | 530162
+Oscar Clemente Pedrico | 530162 | [repo](https://github.com/OscarClemente/Laboratory-6-microservices)
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/Laboratory-6-microservices)
 Santiago Gil Begué | 683482  | [repo](https://github.com/Santi-7/Laboratory-6-microservices)
