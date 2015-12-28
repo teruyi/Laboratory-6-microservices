@@ -8,17 +8,17 @@ AlejandroDiesteCortes | 541892 | [repo](https://github.com/AlejandroDiesteCortes
 Cristian Román |646564
 Javier Beltran Jorba | 532581 | [repo](https://github.com/MrJavo94/Laboratory-6-microservices)
 Marcos Canales Mayo | 467716
-Jorge Cáncer Gil | 646122
+Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/Laboratory-6-microservices)
 Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-6-microservices)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-6-microservices)
 Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/Laboratory-6-microservices)
 David Nicuesa Aranda | 653224
-Eduardo Ibanez | 528074
+Eduardo Ibanez | 528074 | [repo](https://github.com/EduIbanez/Laboratory-6-microservices)
 Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-6-microservices)
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-6-microservices)
-Oscar Clemente Pedrico | 530162
+Oscar Clemente Pedrico | 530162 | [repo](https://github.com/OscarClemente/Laboratory-6-microservices)
 Iñigo Gascón Royo | 685215
-Adrian Susinos Moreno | 650220
+Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/Laboratory-6-microservices)
 Santiago Gil Begué | 683482  | [repo](https://github.com/Santi-7/Laboratory-6-microservices)
 Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/Laboratory-6-microservices)
 Alberto Revel | 628704
